@@ -10,6 +10,7 @@
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/JeffeVargasP/First-Project">First project in Python</a>
+│─◈ <a href="https://github.com/JeffeVargasP/My-TCC"> My-TCC</a>
 │
 └───────────────────────────────▰▰▰
      <img height="30" width="100" src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white">
