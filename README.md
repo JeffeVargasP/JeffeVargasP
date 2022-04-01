@@ -58,7 +58,7 @@
   <img height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </p>
   
-<h4>PROGRAMMS</h4>
+<h4>PROGRAMS</h4>
   <p>
   <img height="30" width="100" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img height="30" width="100" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
