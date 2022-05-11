@@ -16,10 +16,10 @@
      <img height="30" width="100" src="https://img.shields.io/badge/acer%20Aspire%203-83B81A?style=for-the-badge&logo=acer&logoColor=white">
 ┌──┤ SPECIFICATION ├───────▰▰▰
 │
-├─◈ CPU: I3-8130U
-├─◈ GPU: UHD 620
-├─◈ RAM: 1X4GB + 1X8GB 2400MHZ DDR4L
-├─◈ STORAGE: 1TB HD
+├─◈ CPU: I7-2640M
+├─◈ GPU: HD 3000
+├─◈ RAM: 2X2GB 1333MHZ DDR3
+├─◈ STORAGE: 1TB HD, 500GB SSD
 │
 └───────────────────────────────▰▰▰
 </pre>
