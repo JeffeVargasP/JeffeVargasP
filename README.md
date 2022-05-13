@@ -14,7 +14,7 @@
 │─◈ <a href="https://github.com/JeffeVargasP/My-TCC"> My-TCC</a>
 │
 └───────────────────────────────▰▰▰
-<img height="30" width="100" src="https://img.shields.io/badge/Fujitsu-FF0000.svg?style=for-the-badge&logo=Fujitsu&logoColor=white">
+     <img height="30" width="100" src="https://img.shields.io/badge/Fujitsu-FF0000.svg?style=for-the-badge&logo=Fujitsu&logoColor=white">
 ┌──┤ SPECIFICATION ├───────▰▰▰
 │
 ├─◈ CPU: I7-2640M
