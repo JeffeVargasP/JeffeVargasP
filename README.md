@@ -2,32 +2,31 @@
 ┌──┤ ABOUT ME ├─────────▰▰▰
 │
 ├─▣ JEFFERSON VARGAS
-├─▣ 17y
+├─▣ 18y
 ├─▣ Técnico em Eletroeletrônica
 ├─▣ Técnico em Desenvolvimento Web Full Stack
-├─▣ 1° Termo Big Data
+├─▣ 2° Termo Big Data
 │
 └───────────────────────────────▰▰▰
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/JeffeVargasP/First-Project">First project in Python</a>
 │─◈ <a href="https://github.com/JeffeVargasP/My-TCC"> My-TCC</a>
+│─◈ <a href="https://github.com/JeffeVargasP/MLBSearch">MLBSearch</a>
 │
 └───────────────────────────────▰▰▰
+          
      <img height="30" width="100" src="https://img.shields.io/badge/Fujitsu-FF0000.svg?style=for-the-badge&logo=Fujitsu&logoColor=white">
+
 ┌──┤ SPECIFICATION ├───────▰▰▰
 │
 ├─◈ CPU: I7-2640M
 ├─◈ GPU: HD 3000
-├─◈ RAM: 2X2GB 1333MHZ DDR3
+├─◈ RAM: 2X2GB 1X4GB 1333MHZ DDR3
 ├─◈ STORAGE: 1TB HD, 500GB SSD
 │
 └───────────────────────────────▰▰▰
 </pre>
-
-<!-- icones https://dev.to/envoy_/150-badges-for-github-pnk -->
-<!-- mais icones https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<!-- fonte https://fonts.google.com/specimen/Secular+One -->
 
 <h4> SOCIAL NETWORK </h4>
      <p>
@@ -65,7 +64,7 @@
 <h4> OPERATIONAL SYSTEM </h4>
      <p>
           <img height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Zorin-0CC1F3.svg?style=for-the-badge&logo=Zorin&logoColor=white">
+          <img height="30" width="100" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
           <img height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white">
      </p>
   
