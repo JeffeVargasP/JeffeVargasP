@@ -22,7 +22,7 @@
 │
 ├─◈ CPU: I7-2640M
 ├─◈ GPU: HD 3000
-├─◈ RAM: 2X2GB 1X4GB 1333MHZ DDR3
+├─◈ RAM: 1X2GB 1X4GB 1333MHZ DDR3
 ├─◈ STORAGE: 1TB HD, 500GB SSD
 │
 └───────────────────────────────▰▰▰
