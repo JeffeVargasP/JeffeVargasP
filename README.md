@@ -11,19 +11,19 @@
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/JeffeVargasP/First-Project">First project in Python</a>
-│─◈ <a href="https://github.com/JeffeVargasP/My-TCC"> My-TCC</a>
+│─◈ <a href="https://github.com/JeffeVargasP/My-TCC">My-TCC</a>
 │─◈ <a href="https://github.com/JeffeVargasP/MLBSearch">MLBSearch</a>
 │
 └───────────────────────────────▰▰▰
           
-     <img height="30" width="100" src="https://img.shields.io/badge/Fujitsu-FF0000.svg?style=for-the-badge&logo=Fujitsu&logoColor=white">
+     <img height="30" width="100" src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white">
 
 ┌──┤ SPECIFICATION ├───────▰▰▰
 │
-├─◈ CPU: I7-2640M
-├─◈ GPU: HD 3000
-├─◈ RAM: 1X2GB 1X4GB 1333MHZ DDR3
-├─◈ STORAGE: 1TB HD, 500GB SSD
+├─◈ CPU: I7-8565U
+├─◈ GPU: NVIDIA GEFORCE MX 150
+├─◈ RAM: 2X8GB 2666MHz DDR4
+├─◈ STORAGE: 1TB HD, 128GB SSD
 │
 └───────────────────────────────▰▰▰
 </pre>
@@ -44,64 +44,30 @@
           </a>
      </p>
   
-<h4> PROGRAMMING LANGUAGES </h4>
+<h4> TECHNOLOGIES </h4>
      <p>
-          <img height="30" width="100" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+        <img height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+        <img height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+        <img height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img height="30" width="100" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+        <img height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+        <img height="30" width="100" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+        <img height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        <img height="30" width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
      </p>
-  
-<h4> FRAMEWORKS </h4>
-     <p>
-          <img height="30" width="100" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-          <img height="30" width="100" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white">
-     </p>
-
 
 <h4> OPERATIONAL SYSTEM </h4>
      <p>
           <img height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+          <img height="30" width="100" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
           <img height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white">
-     </p>
-  
-<h4> PROGRAMS </h4>
-     <p>
-          <img height="30" width="100" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Audacity-0000CC.svg?style=for-the-badge&logo=Audacity&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=Microsoft-PowerPoint&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Font%20Awesome-528DD7.svg?style=for-the-badge&logo=Font-Awesome&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Glassdoor-0CAA41.svg?style=for-the-badge&logo=Glassdoor&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logo=Nextcloud&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Opera-FF1B2D.svg?style=for-the-badge&logo=Opera&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white">
-     </p>
-  
-<h4> BROWSER AND SEARCH ENGINE </h4>
-     <p>
-          <img height="30" width="100" src="https://img.shields.io/badge/DuckDuckGo-DE5833.svg?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Opera-FF1B2D.svg?style=for-the-badge&logo=Opera&logoColor=white">
      </p>
      
  <h4> FUTURE INTERESTS </h4>
      <p>
           <img height="30" width="100" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+          <img height="30" width="100" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
           <img height="30" width="100" src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white">
      </p>
      
