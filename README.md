@@ -1,74 +1,48 @@
-<pre>
-┌──┤ ABOUT ME ├─────────▰▰▰
-│
-├─▣ JEFFERSON VARGAS
-├─▣ 18y
-├─▣ Técnico em Eletroeletrônica
-├─▣ Técnico em Desenvolvimento Web Full Stack
-├─▣ 2° Termo Big Data
-│
-└───────────────────────────────▰▰▰
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/JeffeVargasP/First-Project">First project in Python</a>
-│─◈ <a href="https://github.com/JeffeVargasP/My-TCC">My-TCC</a>
-│─◈ <a href="https://github.com/JeffeVargasP/MLBSearch">MLBSearch</a>
-│
-└───────────────────────────────▰▰▰
-          
-     <img height="30" width="100" src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B433F7&width=435&lines=Wazzup%2C+my+name+is+Jefferson!;I'm+18+and+I+live+Brazil!+%F0%9F%87%A7%F0%9F%87%B7;I+want+to+make+a+better+world;All+this+together!)
 
-┌──┤ SPECIFICATION ├───────▰▰▰
-│
-├─◈ CPU: I7-8565U
-├─◈ GPU: NVIDIA GEFORCE MX 150
-├─◈ RAM: 2X8GB 2666MHz DDR4
-├─◈ STORAGE: 1TB HD, 128GB SSD
-│
-└───────────────────────────────▰▰▰
-</pre>
+## MY SPECS
 
-<h4> SOCIAL NETWORK </h4>
-     <p>
-          <a href="https://www.linkedin.com/in/jeffvpf/"> <img height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-          </a>
-          <a href="https://t.me/JeffVargas"> <img height="30" width="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-          </a>
-     </p>
-  
-<h4> GIT </h4>
-     <p>
-          <a href="https://gitlab.com/JeffeVargasP"> <img height="30" width="100" src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white">
-          </a>
-          <a href="https://github.com/JeffeVargasP"> <img height="30" width="100" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-          </a>
-     </p>
-  
-<h4> TECHNOLOGIES </h4>
-     <p>
-        <img height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-        <img height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-        <img height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-        <img height="30" width="100" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-        <img height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-        <img height="30" width="100" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-        <img height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-        <img height="30" width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-        <img height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-     </p>
+![Dell](https://img.shields.io/badge/dell%20laptop-0D1117?style=for-the-badge&logo=dell&logoColor=white)&nbsp;
 
-<h4> OPERATIONAL SYSTEM </h4>
-     <p>
-          <img height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white">
-     </p>
-     
- <h4> FUTURE INTERESTS </h4>
-     <p>
-          <img height="30" width="100" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-          <img height="30" width="100" src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white">
-     </p>
-     
-<h1 align="center">\\ ~ ~ 👋 SEE YA 👋 ~ ~ //</h1>
+**CPU: I7-8565U**<br>
+**GPU: NVIDIA GEFORCE MX 150** <br>
+**RAM: 2X8GB 2666MHz DDR4** <br>
+**STORAGE: 1TB HD, 128GB SSD** <br>
+
+## SOCIAL NETWORK
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffvpf/)
+[![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JeffVargas)
+
+## TECHNOLOGIES
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+## TOOLS
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&logoColor=0D1117)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=white)](https://gitlab.com/JeffeVargasP)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeffeVargasP)&nbsp;
+
+## OPERATIONAL SYSTEM
+
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-0D1117?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white)
+
+## FUTURE INTERESTS
+
+![Flutter](https://img.shields.io/badge/Flutter-0D1117.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=white)
