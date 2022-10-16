@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B433F7&width=435&lines=Wazzup%2C+my+name+is+Jefferson!;I'm+18+and+I+live+Brazil!+%F0%9F%87%A7%F0%9F%87%B7;I+want+to+make+a+better+world;All+this+together!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B433F7&width=435&lines=Wazzup%2C+my+name+is+Jefferson!;I'm+18+and+I+live+in+Brazil!+%F0%9F%87%A7%F0%9F%87%B7;I+want+to+make+a+better+world;All+this+together!)
 
 ## MY SPECS
 
