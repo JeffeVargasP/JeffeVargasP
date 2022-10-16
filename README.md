@@ -28,13 +28,15 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 
 ## TOOLS
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&logoColor=0D1117)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=white)](https://gitlab.com/JeffeVargasP)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeffeVargasP)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 ## OPERATIONAL SYSTEM
 
