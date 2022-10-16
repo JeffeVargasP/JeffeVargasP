@@ -12,6 +12,7 @@
 ## SOCIAL NETWORK
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffvpf/)
+[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeffevargas)
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JeffVargas)
 
 ## TECHNOLOGIES
