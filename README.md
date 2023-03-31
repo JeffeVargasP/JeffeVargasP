@@ -20,6 +20,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
@@ -29,6 +30,8 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Gradle](https://img.shields.io/badge/-gradle-0D1117?style=for-the-badge&logo=gradle&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 
 ## TOOLS
 
@@ -42,10 +45,8 @@
 
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-0D1117?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white)
 
 ## FUTURE INTERESTS
 
-![Flutter](https://img.shields.io/badge/Flutter-0D1117.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117.svg?style=for-the-badge&logo=NestJS&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Springboot-0D1117?style=for-the-badge&logo=Springboot&logoColor=white)
