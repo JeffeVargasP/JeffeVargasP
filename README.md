@@ -26,7 +26,7 @@
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
