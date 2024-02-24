@@ -2,7 +2,7 @@
 
 I'm Jefferson, also known as Jerso. Let's think, build, and code together!
 
-## Get in touch! 🌍
+## Get in touch! 🌎
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffvpf/)
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeffevargas)
@@ -29,6 +29,7 @@ I'm Jefferson, also known as Jerso. Let's think, build, and code together!
 ## Tools I use 🔧
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)
@@ -36,11 +37,7 @@ I'm Jefferson, also known as Jerso. Let's think, build, and code together!
 
 ## Operating Systems I use 💻
 
-### For Work
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=Ubuntu&logoColor=white)
-
-### For Personal
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Zorin Linux](https://img.shields.io/badge/Zorin%20Linux-0D1117?style=for-the-badge&logo=zorin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=white)
 
 ## Future Interests 🌟
